@@ -1,0 +1,30 @@
+_repo: Le-fourbe_60080
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Boulenger, Marcel
+    birthdate: 1873
+    deathdate: 1932
+    gutenberg_agent_id: '49050'
+    url: http://www.gutenberg.org/2009/agents/49050
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Marcel_Boulenger
+    - https://en.wikipedia.org/wiki/Marcel_Boulenger
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Nouveautés
+gutenberg_issued: '2019-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60080'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+title: Le fourbe
+url: http://www.gutenberg.org/ebooks/60080
